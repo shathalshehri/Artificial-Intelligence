@@ -1,4 +1,4 @@
-/* prolog tutorial Sports identification game.
+/* prolog Sports identification game.
   start with ?- go.     */
 go :- hypothesize(Sports),
       write('I think that the sport is: '),
